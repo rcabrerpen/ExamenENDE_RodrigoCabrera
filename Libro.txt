@@ -1,0 +1,10 @@
+package Examen;
+
+public class Libro
+{
+	String titulo;
+	String autor;
+	String ISBN;
+	String prestado;
+	
+}
